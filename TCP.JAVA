@@ -1,6 +1,6 @@
 //TCP.JAVA 
 //TCP-SERVER 
-mport java.io.*;
+import java.io.*;
 import java.net.*;
 
 class ServerTCP {
